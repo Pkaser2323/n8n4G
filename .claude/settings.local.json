@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest serp-dashboard --typescript --tailwind --app --src-dir --no-git --yes)",
+      "Bash(npx shadcn@latest init --yes --defaults)"
+    ]
+  }
+}
